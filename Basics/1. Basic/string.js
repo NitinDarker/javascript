@@ -1,0 +1,6 @@
+let s = "Nitin";
+console.log(s.length);
+console.log(s.split(""));
+
+let arr = [1,2,3,4,5];
+console.log(arr.length);
